@@ -1,0 +1,10 @@
+/home/masoud/Desktop/score-boare/backend/bin/Debug/netcoreapp2.0/backend.deps.json
+/home/masoud/Desktop/score-boare/backend/bin/Debug/netcoreapp2.0/backend.runtimeconfig.json
+/home/masoud/Desktop/score-boare/backend/bin/Debug/netcoreapp2.0/backend.runtimeconfig.dev.json
+/home/masoud/Desktop/score-boare/backend/bin/Debug/netcoreapp2.0/backend.dll
+/home/masoud/Desktop/score-boare/backend/bin/Debug/netcoreapp2.0/backend.pdb
+/home/masoud/Desktop/score-boare/backend/obj/Debug/netcoreapp2.0/backend.csproj.CoreCompileInputs.cache
+/home/masoud/Desktop/score-boare/backend/obj/Debug/netcoreapp2.0/backend.AssemblyInfoInputs.cache
+/home/masoud/Desktop/score-boare/backend/obj/Debug/netcoreapp2.0/backend.AssemblyInfo.cs
+/home/masoud/Desktop/score-boare/backend/obj/Debug/netcoreapp2.0/backend.dll
+/home/masoud/Desktop/score-boare/backend/obj/Debug/netcoreapp2.0/backend.pdb
